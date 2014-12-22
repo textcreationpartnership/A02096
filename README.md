@@ -35,30 +35,36 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Euphues his censure to Philautus wherein is presented a philosophicall combat betweene Hector and Ac
+
+1. TO THE RIGHT HONORAble Robert, earle of Essex & Ewe, vicount of Hereford, and Bourghchier, Lord Ferrer• of Chattley, Bourghchier and Louayne, maister of the Queenes maiesties horse, Robert Greene wisheth increase of honor and vertue.
+
+1. ¶ To the Reader.
+
 #####Body#####
 
-1. Vlisses Tale. A Tragedy
+1. A Philosophicall combat betweene Hector and Achilles, wherein in the persons of the Troian and Gretian Lords; are in fowre discourses in-riched with fowre delightfull Hystories, the vertuous mindes of true nobilitie and gentility pleasantly discouered.
 
-1. ¶ The second discourse after Supper.
+    _ Vlisses Tale. A Tragedy
 
-1. Helenus his discourse of Wysedome.
+    _ ¶ The second discourse after Supper.
 
-1. Helenus his Tragedie. Ex sapientia sumus prouidi.
+    _ Helenus his discourse of Wysedome.
 
-1. Cleophanes Oration to the Citizens.
+    _ Helenus his Tragedie. Ex sapientia sumus prouidi.
 
-1. ¶ The third discourse.
+    _ Cleophanes Oration to the Citizens.
 
-1. ¶ Hectors discourse of Fortitude.
+    _ ¶ The third discourse.
 
-1. ¶ Hectors Tragedie. Audaces Fortuna adiu•at.
+    _ ¶ Hectors discourse of Fortitude.
 
-1. ¶ The fourth discourse of Liberality.
+    _ ¶ Hectors Tragedie. Audaces Fortuna adiu•at.
 
-1. ¶ Achilles discourse of Liberalitie.
+    _ ¶ The fourth discourse of Liberality.
 
-1. ¶ Achilles Tragedie. Index animi liberalitas.
+    _ ¶ Achilles discourse of Liberalitie.
+
+    _ ¶ Achilles Tragedie. Index animi liberalitas.
 
 **Types of content**
 
